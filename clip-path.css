@@ -1,0 +1,43 @@
+div{
+  margin:50px auto;  
+}
+#div1{
+    width:100px;
+    height:100px;
+    
+    background:#069;
+    -webkit-clip-path:polygon(0% 0%, 0% 100%,100% 100%,100% 0%);
+  }
+
+#div2{
+    width:100px;
+    height:87px;
+    
+    background:#c00;
+    -webkit-clip-path:polygon(0% 100%, 50%  0%,100% 100%);
+  }
+#div3{
+  width:162px; 
+  height:154px; 
+  background:#095; 
+  -webkit-clip-path:polygon(0% 38.31%, 50% 0%,100% 38.31%,80.86% 100%,19.14% 100%);
+}
+#div4{
+    width:200px; 
+    height:174px; 
+    background:#f80;
+    -webkit-clip-path:polygon(25% 0%, 75% 0%,100% 50%,75% 100%,25% 100%,0% 50%);
+}
+#div5{
+  width:224px; 
+  height:218px; 
+  background:#09c; 
+  margin: 50px auto; 
+  -webkit-clip-path:polygon(50% 0%, 90.18% 19.72%,100% 64.22%,72.32% 100%,27.68% 100%,0% 64.22%,10.09% 19.72%);
+}
+#div6{
+  width:242px; 
+  height:242px; 
+  background:#f69; 
+  -webkit-clip-path:polygon(29.34% 0%, 70.66% 0%,100% 29.34%,100% 70.66%,70.66% 100%,29.34% 100%,0% 70.66%,0% 29.34%); 
+}
